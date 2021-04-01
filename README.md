@@ -22,7 +22,8 @@ The environment is considered "solved" when the agent is able to receive an aver
 ## Getting Started
 
 ### Installing dependencies
-These instructions assume that Anaconda is installed (find it [here](https://www.anaconda.com/))
+_These instructions assume that Anaconda is installed (find it [here](https://www.anaconda.com/))_
+
 1. Create (and activate) a new environment with Python 3.6.
 
    * Linux or Mac:
