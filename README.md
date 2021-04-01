@@ -3,16 +3,13 @@ Udacity's Deep Reinforcement Learning Nanodegree - Project 1: Navigation
 
 ## Project Details
 
-### Environment Details
+### State Space
 TODO
 
-#### State Space
+### Action Space
 TODO
 
-#### Action Space
-TODO
-
-#### When is the enviornment solved?
+### When is the enviornment solved?
 The environment is considered "solved" when the agent is able to receive an average reward, over 100 episodes, of at least +13.
 
 ## Getting Started
