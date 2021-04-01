@@ -11,10 +11,10 @@ A reward of +1 is achieved by the agent for collecting a yellow banana, with a -
 ### Action Space
 There four actions for the agent to choose from at each time step:
 
-0 - walk forward 
-1 - walk backward
-2 - turn left
-3 - turn right
+* 0 - walk forward 
+* 1 - walk backward
+* 2 - turn left
+* 3 - turn right
 
 ### When is the enviornment solved?
 The environment is considered "solved" when the agent is able to receive an average reward, over 100 episodes, of at least +13.
