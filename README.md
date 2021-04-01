@@ -9,7 +9,7 @@ The state space is continuous and 37-dimensional. The dimensions capture the vel
 A reward of +1 is achieved by the agent for collecting a yellow banana, with a -1 reward if the agent picks up a blue banana.
 
 ### Action Space
-There four actions for the agent to choose from at each time step:
+There four discrete actions for the agent to choose from at each time step:
 
 * 0 - walk forward 
 * 1 - walk backward
