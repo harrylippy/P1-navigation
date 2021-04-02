@@ -43,14 +43,17 @@ _These instructions assume that Anaconda is installed (find it [here](https://ww
     * Next, install the classic control environment group by following the instructions [here](https://github.com/openai/gym#classic-control).
     * Then, install the box2d environment group by following the instructions [here](https://github.com/openai/gym#box2d).
 
-3. Clone the repository (if you haven't already!), and navigate to the python/ folder. Then, install several dependencies.
+3. Clone the repository, and navigate to the python/ folder. Then, install several dependencies.
 
-git clone https://github.com/udacity/deep-reinforcement-learning.git
-cd deep-reinforcement-learning/python
-pip install .
-Create an IPython kernel for the drlnd environment.
-python -m ipykernel install --user --name drlnd --display-name "drlnd"
-Before running code in a notebook, change the kernel to match the drlnd environment by using the drop-down Kernel menu.
+        `git clone https://github.com/harrylippy/p1-navigation.git`
+        `cd deep-reinforcement-learning/python`
+        `pip install .`
+
+4. Create an IPython kernel for the drlnd environment.
+
+        `python -m ipykernel install --user --name drlnd --display-name "drlnd"`
+        
+6. Before running code in a notebook, change the kernel to match the drlnd environment by using the drop-down Kernel menu.
 
 ## Instructions
 
