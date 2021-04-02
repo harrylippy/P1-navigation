@@ -26,17 +26,15 @@ _These instructions assume that Anaconda is installed (find it [here](https://ww
 
 1. Create (and activate) a new environment with Python 3.6.
 
-   * Linux or Mac:
+    **_Linux or Mac:_**
 
-        `conda create --name drlnd python=3.6`
-        
-        `source activate drlnd`
+        conda create --name drlnd python=3.6
+        source activate drlnd
 
-   * Windows:
+    **_Windows:_**
         
-        `conda create --name drlnd python=3.6` 
-        
-        `activate drlnd`
+        conda create --name drlnd python=3.6
+        activate drlnd
 
 2. Follow the instructions in [this repository](https://github.com/openai/gym) to perform a minimal install of OpenAI gym.
 
@@ -45,13 +43,13 @@ _These instructions assume that Anaconda is installed (find it [here](https://ww
 
 3. Clone the repository, and navigate to the python/ folder. Then, install several dependencies.
 
-        `git clone https://github.com/harrylippy/p1-navigation.git`
-        `cd deep-reinforcement-learning/python`
-        `pip install .`
+        git clone https://github.com/harrylippy/p1-navigation.git
+        cd deep-reinforcement-learning/python
+        pip install .
 
 4. Create an IPython kernel for the drlnd environment.
 
-        `python -m ipykernel install --user --name drlnd --display-name "drlnd"`
+        python -m ipykernel install --user --name drlnd --display-name "drlnd"
         
 6. Before running code in a notebook, change the kernel to match the drlnd environment by using the drop-down Kernel menu.
 
