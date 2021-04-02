@@ -56,4 +56,6 @@ _These instructions assume that Anaconda is installed (find it [here](https://ww
 ## Instructions
 
 ### How to run the code to train the agent
-TODO
+All of the code necessary to train the agent is included in the IPython notebook. To run the notebook, execute the following command:
+
+        jupyter notebook Navigation.ipynb
